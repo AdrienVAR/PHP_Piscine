@@ -1,0 +1,40 @@
+body
+{
+    background-color: #505050;
+}
+img.head{
+    height: 120px;
+    margin: 10px;
+}
+img.central_picture{
+    text-align: center;
+}
+img.magnify{
+    position: absolute;
+    top: 10px;
+    right: 40px;
+}
+header, div.left_menu, div.right_menu, div.mid_picture, div.form{
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px #000000;
+    background-color: #909090;
+}
+img.start, img.leave{
+    height: 20px;
+    width: 20px;
+}
+img.start{
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+img.leave{
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+}
+div.container{
+    margin: 0 auto;
+    width: 1420px;
+    position: relative;
+}
