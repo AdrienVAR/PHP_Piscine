@@ -1,0 +1,1 @@
+La class Dice permet de creer des des. Les des sont lances a la creation, et peuvent etre relancees avec la fonction throw_dice.

@@ -4,6 +4,7 @@ if($argc == 2)
 {
 $words_array = array_filter(explode(" ", trim($argv[1])));
 $i = 0;
+print_r($words_array);
 foreach($words_array as $value)
     {
         echo"$value";

@@ -1,0 +1,1 @@
+Cette classe permet de creeer la map ainsi que de placer et deplacer des vaisseaux et des meteorites. La fonction tir permet de tirer sur l'ennemi.'

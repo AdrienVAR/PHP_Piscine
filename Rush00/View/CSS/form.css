@@ -1,0 +1,15 @@
+.login-form
+{
+    width: 100%;
+    background-color: #57aeff;
+}
+
+.login-form form
+{
+    width: 30vw;
+    margin: auto;
+    text-align: center;
+}
+.submit{
+    margin-left: 100px;
+}

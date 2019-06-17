@@ -19,7 +19,6 @@
         if(!file_exists($folder_path))
             mkdir($folder_path, 0755);
         $data = array();
-        file_put_contents($path, NULL);
     }
     if($data)
     {

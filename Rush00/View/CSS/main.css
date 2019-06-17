@@ -1,0 +1,95 @@
+@import 'form.css';
+@import 'messages.css';
+@import 'account.css';
+@import 'index.css';
+@import 'products.css';
+
+body
+{
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
+    background-color: #f3f4f5;
+    padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+table
+{
+    border: 1px solid black;
+}
+
+td
+{
+    border: 2px solid black;
+    margin: 0px;
+    width: 21.25vw;
+    text-align: center;
+    height: 3vw;
+}
+
+.order
+{
+    border: 1px solid red;
+    margin-bottom: 2vw;
+}
+.order img
+{
+    max-height: 3vw;
+}
+
+.orders
+{
+    text-align: center;
+    width: 65vw;
+    margin: auto;
+}
+
+picture-tab
+{
+    width: 6vw;
+}
+
+.home-button
+{
+    width: 80%;
+    max-width: 40vw;
+    background-color: #cce5ff;
+    border: 1px solid #b8daff;
+    margin: 2vw auto;
+    border-radius: 5px;
+    padding: 0.40vw;
+    text-align: center;
+    font-size: 1vw;
+    margin-bottom: 5px;
+}
+
+.home-button a
+{
+    text-decoration: none;
+    color: #004085;
+}
+
+.basket
+{
+    width: 75vw;
+    margin: auto;
+}
+
+label
+{
+	display: block;
+    width: 150px;
+    float: left;
+}
+
+.add_clothes
+{
+    width: 30vw;
+    margin:auto;
+}

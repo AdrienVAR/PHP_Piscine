@@ -1,0 +1,11 @@
+name,price,img,ID,categorie
+short,15,short.jpeg,1,homme
+tshirt,25,tshirt.jpeg,2,homme
+"tshirt blanc",20,tshirt_blanc.jpeg,3,homme
+"short bleu",19,short_bleu.jpeg,4,homme
+robe,35,robe.jpeg,5,femme
+robe_blanche,45,robe_blanche.jpeg,6,femme
+sac,70,sac.jpeg,7,femme
+"sac blanc",85,sac_blanc.jpeg,8,femme
+"tshirt gris",6,promotion.jpeg,9,promotions
+chemise,12,promotion_chemise.jpeg,10,promotions

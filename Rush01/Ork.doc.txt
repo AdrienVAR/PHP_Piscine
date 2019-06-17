@@ -1,0 +1,1 @@
+La fonction ork permet de creer un vaisseau baisique, elle contient toute les variables necessaires.

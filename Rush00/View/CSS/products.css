@@ -1,0 +1,29 @@
+.products-container
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 80vw;
+    margin: 1vw auto;
+    text-align: center;
+
+}
+
+.produit
+{
+    width: 22%;
+    background-color: #b8daff;
+    border-radius: 4px;
+    box-shadow: 0px 0px 4px #0000003d;
+}
+
+.image-container img
+{
+    width: 80%;
+    margin: 0.5vw;
+}
+
+.produit form
+{
+    margin: 0.5vw;
+} 

@@ -1,0 +1,1 @@
+La fonction meteo permet de creer des meteorites placlable sur une map.
